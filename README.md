@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">My name is Samuele Bruni and I am a JR.  WEB Full - Stack Developer.<br><br>- 💻 I’m currently working on my dev portfolio<br>- 📫 Contact me here samuele_bruni@hotmail.com<br>-  ⚡Game of Thrones, Lord of the Rings and Star Wars fanboy<br>- 🚀 Booleaner class #104<br><br>I'm from Lecce, Italy.</p>
+<p align="left">My name is Samuele Bruni and I am a JR.  WEB Full - Stack Developer.<br><br>- 💻 I’m currently working on my dev portfolio<br>- 📫 Contact me here samuele_bruni@hotmail.com<br>-  ⚡ Game of Thrones, Lord of the Rings and Star Wars fanboy<br>- 🚀 Booleaner class #104<br><br>I'm from Lecce, Italy.</p>
 
 ###
 
